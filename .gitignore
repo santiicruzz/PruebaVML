@@ -137,3 +137,24 @@ dist
 # Ignorar carpetas de compilación
 bin/
 obj/
+# Archivos de configuración de usuario
+.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Archivos de compilación
+bin/
+obj/
+
+# Archivos de paquetes
+*.nupkg
+*.snupkg
+
+# Archivos de logs
+*.log
+
+# Archivos temporales
+*.tmp
+*.temp

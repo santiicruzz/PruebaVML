@@ -14,7 +14,6 @@ namespace Biblioteca_API.Controllers
             _bibliotecaContext = bibliotecaContext;
         }
 
-
         // GET: api/<LibrosController>
         [HttpGet]
         public async Task<List<Libro>> GetLibros()
@@ -23,7 +22,7 @@ namespace Biblioteca_API.Controllers
             return libros;
         }
 
-        // GET api/<BibliotecaController>/
+        // GET api/<LibrosController>/
         [HttpGet("{id}")]
         public async Task<IActionResult> GetLibroById(int id)
         {
@@ -35,7 +34,7 @@ namespace Biblioteca_API.Controllers
             return NotFound();
         }
 
-        // POST api/<BibliotecaController>
+        // POST api/<LibrosController>
         [HttpPost]
         public async Task<IActionResult> Post([FromBody] Libro libroObj)
         {
