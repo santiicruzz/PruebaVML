@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\santi\\Documents\\Proyectos Angular\\PruebaVML\\Biblioteca_API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{95CB7CD5-89C8-46BF-856B-6FF4F30728C5}|Biblioteca_API.csproj|c:\\users\\santi\\documents\\proyectos angular\\pruebavml\\biblioteca_api\\controllers\\libroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95CB7CD5-89C8-46BF-856B-6FF4F30728C5}|Biblioteca_API.csproj|solutionrelative:controllers\\libroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95CB7CD5-89C8-46BF-856B-6FF4F30728C5}|Biblioteca_API.csproj|c:\\users\\santi\\documents\\proyectos angular\\pruebavml\\biblioteca_api\\data\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95CB7CD5-89C8-46BF-856B-6FF4F30728C5}|Biblioteca_API.csproj|solutionrelative:data\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95CB7CD5-89C8-46BF-856B-6FF4F30728C5}|Biblioteca_API.csproj|c:\\users\\santi\\documents\\proyectos angular\\pruebavml\\biblioteca_api\\data\\bibliotecacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95CB7CD5-89C8-46BF-856B-6FF4F30728C5}|Biblioteca_API.csproj|solutionrelative:data\\bibliotecacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95CB7CD5-89C8-46BF-856B-6FF4F30728C5}|Biblioteca_API.csproj|c:\\users\\santi\\documents\\proyectos angular\\pruebavml\\biblioteca_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{95CB7CD5-89C8-46BF-856B-6FF4F30728C5}|Biblioteca_API.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95CB7CD5-89C8-46BF-856B-6FF4F30728C5}|Biblioteca_API.csproj|c:\\users\\santi\\documents\\proyectos angular\\pruebavml\\biblioteca_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95CB7CD5-89C8-46BF-856B-6FF4F30728C5}|Biblioteca_API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95CB7CD5-89C8-46BF-856B-6FF4F30728C5}|Biblioteca_API.csproj|c:\\users\\santi\\documents\\proyectos angular\\pruebavml\\biblioteca_api\\data\\prestamo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95CB7CD5-89C8-46BF-856B-6FF4F30728C5}|Biblioteca_API.csproj|solutionrelative:data\\prestamo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Prestamo.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\Documents\\Proyectos Angular\\PruebaVML\\Biblioteca_API\\Data\\Prestamo.cs",
+              "RelativeDocumentMoniker": "Data\\Prestamo.cs",
+              "ToolTip": "C:\\Users\\santi\\Documents\\Proyectos Angular\\PruebaVML\\Biblioteca_API\\Data\\Prestamo.cs",
+              "RelativeToolTip": "Data\\Prestamo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T04:13:00.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Libro.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\Documents\\Proyectos Angular\\PruebaVML\\Biblioteca_API\\Data\\Libro.cs",
+              "RelativeDocumentMoniker": "Data\\Libro.cs",
+              "ToolTip": "C:\\Users\\santi\\Documents\\Proyectos Angular\\PruebaVML\\Biblioteca_API\\Data\\Libro.cs",
+              "RelativeToolTip": "Data\\Libro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T04:09:59.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LibrosController.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\Documents\\Proyectos Angular\\PruebaVML\\Biblioteca_API\\Controllers\\LibrosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LibrosController.cs",
+              "ToolTip": "C:\\Users\\santi\\Documents\\Proyectos Angular\\PruebaVML\\Biblioteca_API\\Controllers\\LibrosController.cs",
+              "RelativeToolTip": "Controllers\\LibrosController.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAcwGIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T03:59:51.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\santi\\Documents\\Proyectos Angular\\PruebaVML\\Biblioteca_API\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\santi\\Documents\\Proyectos Angular\\PruebaVML\\Biblioteca_API\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-20T03:49:16.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BibliotecaContext.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\Documents\\Proyectos Angular\\PruebaVML\\Biblioteca_API\\Data\\BibliotecaContext.cs",
+              "RelativeDocumentMoniker": "Data\\BibliotecaContext.cs",
+              "ToolTip": "C:\\Users\\santi\\Documents\\Proyectos Angular\\PruebaVML\\Biblioteca_API\\Data\\BibliotecaContext.cs",
+              "RelativeToolTip": "Data\\BibliotecaContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T03:42:22.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\Documents\\Proyectos Angular\\PruebaVML\\Biblioteca_API\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\santi\\Documents\\Proyectos Angular\\PruebaVML\\Biblioteca_API\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T03:29:33.264Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
